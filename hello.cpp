@@ -5,7 +5,7 @@ int main() {
  std::cout <<"Whats your name?" << std::endl;
  std::string name;
  std::cin >> name;
- std::cout << "Hello, " << name << "!" << std::endl; 
+ std::cout << "Hello, " << name << ", its a beautiful day!" << std::endl; 
  return 0;
 }
 
